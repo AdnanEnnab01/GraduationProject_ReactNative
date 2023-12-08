@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "CashCore",
+    "slug": "CashCore",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/mylogo.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/logoo1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1A1A1A"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
